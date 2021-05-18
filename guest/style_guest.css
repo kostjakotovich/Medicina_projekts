@@ -46,6 +46,10 @@ h1 {
 }
 #pogaFiltr{
     position: relative;
-    width: 50px;
+    display: flex;
+    width: 53px;
     height: 50px; 
+    top: 89px;
+    left: 149px;
+    font-size: 40px;
 }
