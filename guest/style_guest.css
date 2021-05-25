@@ -38,11 +38,13 @@ h1 {
     height: 110px;
 }
 #search {
+    text-align: center;
     position: relative;
     width: 1247px;
     height: 50px;
     top: -750px;
     left: 250px;
+    font-size: 20px;
 }
 #pogaFiltr{
     position: relative;
