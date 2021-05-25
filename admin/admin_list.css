@@ -38,18 +38,11 @@ h1 {
     height: 110px;
 }
 #search {
+    text-align: center;
     position: relative;
-    width: 1247px;
+    width: 500px;
     height: 50px;
     top: -750px;
-    left: 250px;
-}
-#pogaFiltr{
-    position: relative;
-    display: flex;
-    width: 53px;
-    height: 50px; 
-    top: 89px;
-    left: 1497px;
-    font-size: 40px;
+    left: 650px;
+    font-size: 20px;
 }
